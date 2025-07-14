@@ -1,4 +1,4 @@
-Analisis Gaji di Industri Data Science (2020–2023)
+Analisis Gaji di Industri Data Science 2025
 
  Deskripsi Proyek
 Proyek ini merupakan bagian dari capstone project pembelajaran Data Analytics. Tujuan utamanya adalah menganalisis dataset gaji pekerjaan di industri Data Science global dari tahun 2020 hingga 2023, serta membangun model AI sederhana untuk memprediksi gaji berdasarkan fitur seperti job title, lokasi, dan remote ratio.
